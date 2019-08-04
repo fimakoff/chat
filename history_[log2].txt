@@ -1,0 +1,105 @@
+/clientlist nick2 
+nick2 ББ приветствует тебя в чате! Логов не обнаружено.
+Вы изменили свой ник на MIKE
+/clientlist MIKE 
+/clientlist MIKE nick3 
+nick3 ББ приветствует тебя в чате! Логов не обнаружено.
+/clientlist MIKE 
+/serverclosed
+/clientlist MIKE 
+Вы изменили свой ник на nick2
+/clientlist nick2 
+/clientlist nick2 nick3 
+/clientlist nick2 nick3 nick1 
+nick1 ББ приветствует тебя в чате! Логов не обнаружено.
+/clientlist nick2 nick1 
+/clientlist nick1 nick2 
+nick1 привет
+/clientlist nick1 nick2 
+/clientlist nick1 nick2 nick3 
+/clientlist nick1 nick2 
+nick2 Привет!
+/clientlist nick1 nick2 
+nick2 dwdwdwdw
+/clientlist nick1 nick2 
+TO: nick1 SEND: hellonick1
+/clientlist nick1 nick2 
+/clientlist nick1 nick2 
+/clientlist nick1 nick2 nick3 
+nick1 hi!
+nick2 hi!!
+nick3 hi!!!
+nick3 how are you???
+TO: nick1 SEND: hey you?
+FROM: nick1 SEND: what do you want?
+FROM: nick1 SEND: you are in blacklist!
+Вы удалили пользователя с ником nick2 из черного списка!
+nick2 are you sure?
+Вы удалили пользователя с ником nick2 из черного списка!
+nick1 лотдлотдлот
+nick2 лодилдоидлои
+/clientlist nick1 nick3 nick2 
+nick1 добавил пользователя с ником nick2 в черный список!
+nick2 добавил пользователя с ником nick2 в черный список!
+/clientlist nick1 nick2 
+/clientlist nick1 nick2 nick3 
+nick1 hey!
+nick2 рунрун!
+nick3 рунрунрун!
+nick1 добавил пользователя с ником nick2 в черный список!
+nick1 рунрунрунрун
+nick3 рунрунрунрун
+nick3 прьнабг
+nick3 патпвбангбагшюгпш.
+nick3 веневноэ
+nick3 удалил пользователя с ником nick2 в черный список!
+nick2 бмрормор
+nick3 лоилоиол
+nick1 удалил пользователя с ником nick1 в черный список!
+nick1 удалил пользователя с ником nick2 в черный список!
+nick1 удалил пользователя с ником nick3 в черный список!
+/clientlist nick1 nick2 
+/clientlist nick1 nick2 nick3 
+nick1 fbvwfbrfgbrtrtb
+nick2 3g34g43
+nick2 b3b4
+nick3 4g4g3
+nick1 добавил пользователя с ником nick2 в черный список!
+nick1 reergerberb
+nick3 ebrerberberb
+nick1 r3ff
+Вы изменили свой ник на MIKE2
+/clientlist nick1 nick3 MIKE2 
+nick1 ewfewfwef
+nick1 wefewfw
+nick3 wefwefefwef
+nick1 удалил пользователя с ником MIKE2 из черного списка!
+nick1 увамуамавм
+/clientlist nick3 MIKE2 
+/clientlist nick3 MIKE2 nick1 
+Вы изменили свой ник на nick2
+/clientlist nick3 nick1 nick2 
+nick1 dwcwcw
+nick3 цусусцус
+nick2 усцсцсцус
+nick1 добавил пользователя с ником nick2 в черный список!
+nick1 fкакакакак
+nick2 удалил пользователя с ником nick2 из черного списка!
+nick2 cewwcewc
+/clientlist nick1 nick2 
+nick2 h
+nick2 добавил пользователя с ником nick1 в черный список!
+nick1 удалил пользователя с ником nick1 из черного списка!
+/clientlist nick1 nick2 
+/serverclosed
+/clientlist nick1 nick2 
+/clientlist nick1 nick2 
+nick1 хей
+nick2 dss
+nick1 dsss
+/clientlist nick2 
+/serverclosed
+/clientlist nick2 
+/clientlist nick2 nick1 
+nick2 халлоу!
+/serverclosed

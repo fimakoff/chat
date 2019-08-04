@@ -1,0 +1,74 @@
+/clientlist MIKE nick3 
+nick3 ББ приветствует тебя в чате! Логов не обнаружено.
+/serverclosed
+/clientlist nick2 nick3 
+
+/w 'nick' - отправить личное сообщение пользователю с ником 'nick'
+
+/blacklist 'nick' - добавить пользователя с ником 'nick' в черный список
+
+/unblacklict 'nick' - удалить пользователя с ником 'nick' из черного списка
+
+/updatenick 'login' 'password' - поменять свой ник
+/end - закрыть соединение с сервером
+/clientlist nick2 nick3 nick1 
+nick1 ББ приветствует тебя в чате! Логов не обнаружено.
+/clientlist nick1 nick2 nick3 
+/clientlist nick1 nick3 
+/clientlist nick1 nick3 
+nick1 блаблабла
+/clientlist nick1 nick2 nick3 
+nick1 hi!
+nick2 hi!!
+nick3 hi!!!
+nick3 how are you???
+nick2 are you sure?
+nick1 лотдлотдлот
+nick2 лодилдоидлои
+/clientlist nick1 nick3 
+/clientlist nick1 nick3 nick2 
+nick1 добавил пользователя с ником nick2 в черный список!
+nick2 добавил пользователя с ником nick2 в черный список!
+/clientlist nick1 nick2 nick3 
+nick1 hey!
+nick2 рунрун!
+nick3 рунрунрун!
+nick1 добавил пользователя с ником nick2 в черный список!
+nick1 рунрунрунрун
+nick3 рунрунрунрун
+nick3 прьнабг
+nick3 патпвбангбагшюгпш.
+nick3 веневноэ
+nick3 удалил пользователя с ником nick2 в черный список!
+nick2 бмрормор
+nick3 лоилоиол
+nick1 удалил пользователя с ником nick1 в черный список!
+nick1 удалил пользователя с ником nick2 в черный список!
+nick1 удалил пользователя с ником nick3 в черный список!
+/clientlist nick1 nick2 nick3 
+nick1 fbvwfbrfgbrtrtb
+nick2 3g34g43
+nick2 b3b4
+nick3 4g4g3
+nick1 добавил пользователя с ником nick2 в черный список!
+nick1 reergerberb
+nick3 ebrerberberb
+nick1 r3ff
+/clientlist nick1 nick3 
+/clientlist nick1 nick3 MIKE2 
+nick1 ewfewfwef
+nick1 wefewfw
+nick3 wefwefefwef
+nick1 удалил пользователя с ником MIKE2 из черного списка!
+nick1 увамуамавм
+/clientlist nick3 MIKE2 
+/clientlist nick3 MIKE2 nick1 
+/clientlist nick3 nick1 
+/clientlist nick3 nick1 nick2 
+nick1 dwcwcw
+nick3 цусусцус
+nick2 усцсцсцус
+nick1 добавил пользователя с ником nick2 в черный список!
+nick1 fкакакакак
+nick2 удалил пользователя с ником nick2 из черного списка!
+nick2 cewwcewc

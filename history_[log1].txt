@@ -1,0 +1,169 @@
+/clientlist nick2 nick3 nick1 
+nick1 ББ приветствует тебя в чате! Логов не обнаружено.
+
+/w 'nick' - отправить личное сообщение пользователю с ником 'nick'
+
+/blacklist 'nick' - добавить пользователя с ником 'nick' в черный список
+
+/unblacklict 'nick' - удалить пользователя с ником 'nick' из черного списка
+
+/updatenick 'login' 'password' - поменять свой ник
+/end - закрыть соединение с сервером
+/clientlist nick2 nick1 
+/clientlist nick1 
+/clientlist nick1 
+/w 'nick' - отправить личное сообщение пользователю с ником 'nick'
+/blacklist 'nick' - добавить пользователя с ником 'nick' в черный список
+/unblacklict 'nick' - удалить пользователя с ником 'nick' из черного списка
+/updatenick 'login' 'password' - поменять свой ник
+/end - закрыть соединение с сервером
+/clientlist nick1 
+/w 'nick' - отправить личное сообщение пользователю с ником 'nick'
+/blacklist 'nick' - добавить пользователя с ником 'nick' в черный список
+/unblacklict 'nick' - удалить пользователя с ником 'nick' из черного списка
+/updatenick 'login' 'password' - поменять свой ник
+/end - закрыть соединение с сервером
+/clientlist nick1 
+Доступные команды, реализованные для использования в данном чате:
+/w 'nick' - отправить личное сообщение пользователю с ником 'nick'
+/blacklist 'nick' - добавить пользователя с ником 'nick' в черный список
+/unblacklict 'nick' - удалить пользователя с ником 'nick' из черного списка
+/updatenick 'login' 'password' - поменять свой ник
+/end - закрыть соединение с сервером
+/serverclosed
+/clientlist nick1 
+Доступные команды, реализованные для использования в данном чате:
+/w 'nick' - отправить личное сообщение пользователю с ником 'nick'
+/blacklist 'nick' - добавить пользователя с ником 'nick' в черный список
+/unblacklict 'nick' - удалить пользователя с ником 'nick' из черного списка
+/updatenick 'login' 'password' - поменять свой ник
+/end - закрыть соединение с сервером
+/clientlist nick1 
+/serverclosed
+/clientlist nick1 
+/clientlist nick1 nick2 
+nick1 привет
+/clientlist nick1 
+/serverclosed
+/clientlist nick1 
+/clientlist nick1 
+/clientlist nick1 
+/clientlist nick1 
+/clientlist nick1 nick2 
+/clientlist nick1 nick2 nick3 
+/clientlist nick1 nick3 
+/clientlist nick1 
+nick1 ждьджььждь
+nick1 бьтбть
+/clientlist nick1 
+/clientlist nick1 nick2 
+nick2 Привет!
+/clientlist nick1 
+/clientlist nick1 nick2 
+nick2 dwdwdwdw
+/clientlist nick1 
+/clientlist nick1 nick3 
+nick1 блаблабла
+/clientlist nick1 
+/serverclosed
+/clientlist nick1 
+/clientlist nick1 
+nick1 ББ приветствует тебя в чате! Логов не обнаружено.
+/clientlist nick1 nick2 
+nick2 ББ приветствует тебя в чате! Логов не обнаружено.
+/clientlist nick1 
+/clientlist nick1 
+/clientlist nick1 nick2 
+FROM: nick2 SEND: hellonick1
+/clientlist nick1 
+/clientlist nick1 nick2 
+/clientlist nick1 
+/clientlist nick1 nick2 
+/clientlist nick1 nick2 nick3 
+nick1 hi!
+nick2 hi!!
+nick3 hi!!!
+Вы добавили пользователя с ником nick2 в черный список!
+nick3 how are you???
+FROM: nick2 SEND: hey you?
+TO: nick2 SEND: what do you want?
+TO: nick2 SEND: you are in blacklist!
+nick2 are you sure?
+Вы добавили пользователя с ником nick2 в черный список!
+nick1 лотдлотдлот
+nick2 лодилдоидлои
+Вы добавили пользователя с ником nick2 в черный список!
+Вы удалили пользователя с ником nick2 из черного списка!
+/clientlist nick1 
+/clientlist nick1 nick3 
+/clientlist nick1 nick3 nick2 
+nick1 добавил пользователя с ником nick2 в черный список!
+nick2 добавил пользователя с ником nick2 в черный список!
+/clientlist nick1 
+/clientlist nick1 nick2 
+/clientlist nick1 nick2 nick3 
+nick1 hey!
+nick2 рунрун!
+nick3 рунрунрун!
+nick1 добавил пользователя с ником nick2 в черный список!
+nick1 рунрунрунрун
+nick3 рунрунрунрун
+nick3 прьнабг
+nick3 патпвбангбагшюгпш.
+nick3 веневноэ
+nick3 удалил пользователя с ником nick2 в черный список!
+nick2 бмрормор
+nick3 лоилоиол
+nick1 удалил пользователя с ником nick1 в черный список!
+nick1 удалил пользователя с ником nick2 в черный список!
+nick1 удалил пользователя с ником nick3 в черный список!
+/clientlist nick1 
+/clientlist nick1 nick2 
+/clientlist nick1 nick2 nick3 
+nick1 fbvwfbrfgbrtrtb
+nick2 3g34g43
+nick2 b3b4
+nick3 4g4g3
+nick1 добавил пользователя с ником nick2 в черный список!
+nick1 reergerberb
+nick3 ebrerberberb
+nick1 r3ff
+/clientlist nick1 nick3 
+/clientlist nick1 nick3 MIKE2 
+nick1 ewfewfwef
+nick1 wefewfw
+nick3 wefwefefwef
+nick1 удалил пользователя с ником MIKE2 из черного списка!
+nick1 увамуамавм
+/clientlist nick3 MIKE2 nick1 
+/clientlist nick3 nick1 
+/clientlist nick3 nick1 nick2 
+nick1 dwcwcw
+nick3 цусусцус
+nick2 усцсцсцус
+nick1 добавил пользователя с ником nick2 в черный список!
+nick1 fкакакакак
+nick2 удалил пользователя с ником nick2 из черного списка!
+nick2 cewwcewc
+/clientlist nick1 
+/clientlist nick1 nick2 
+nick2 h
+nick2 добавил пользователя с ником nick1 в черный список!
+nick1 удалил пользователя с ником nick1 из черного списка!
+/clientlist nick1 
+/clientlist nick1 nick2 
+/clientlist nick1 
+/clientlist nick1 nick2 
+/clientlist nick1 
+/clientlist nick1 nick2 
+nick1 хей
+nick2 dss
+nick1 dsss
+/serverclosed
+/clientlist nick1 
+/clientlist nick2 nick1 
+nick2 халлоу!
+/clientlist nick1 
+/serverclosed
+/clientlist nick1 
+/serverclosed
